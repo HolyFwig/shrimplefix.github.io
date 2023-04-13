@@ -24,7 +24,7 @@ button {
     border-radius: 20px;
     padding: 20px;
 }
-button {
+button:hover {
     color: #000053;
     cursor: pointer;
 }
