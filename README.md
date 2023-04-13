@@ -25,28 +25,10 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/fmkash/staticdev.org">
-    <img src="assets/staticdev.org.png" alt="Logo" width="150" height="150">
-  </a>
-
-  <h3 align="center">STATICDEV.ORG</h3>
+  <h3 align="center"></h3>
 
   <p align="center">
-    A multipurpose website with a website starter! :)
-    <br />
-    <a href="https://github.com/fmkash/staticdev.org"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/fmkash/staticdev.org/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/fmkash/staticdev.org/issues">Request Feature</a>
+    Shrimple Club's multipurpose, open-source CDN!
   </p>
 </div>
 
