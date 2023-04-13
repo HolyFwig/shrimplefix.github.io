@@ -14,3 +14,17 @@ p {
     color: #ffffff;
     font-size: 14px;
 }
+a {text-decoration: none;}
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+button {
+    color: #000043;
+    border-radius: 20px;
+    padding: 20px;
+}
+button {
+    color: #000053;
+    cursor: pointer;
+}
