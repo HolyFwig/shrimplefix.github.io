@@ -14,17 +14,21 @@ p {
     color: #ffffff;
     font-size: 14px;
 }
-a {text-decoration: none;}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 a:hover {
     cursor: pointer;
     text-decoration: underline;
 }
 button {
-    color: #000043;
+    background-color: #000043;
+    color: #ffffff;
     border-radius: 20px;
     padding: 20px;
 }
 button:hover {
-    color: #000053;
+    background-color: #000053;
     cursor: pointer;
 }
